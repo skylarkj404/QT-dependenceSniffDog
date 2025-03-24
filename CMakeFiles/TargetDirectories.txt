@@ -1,0 +1,8 @@
+D:/testerQTsmiffdog/CMakeFiles/dllSniffdog-QT.dir
+D:/testerQTsmiffdog/CMakeFiles/edit_cache.dir
+D:/testerQTsmiffdog/CMakeFiles/rebuild_cache.dir
+D:/testerQTsmiffdog/CMakeFiles/list_install_components.dir
+D:/testerQTsmiffdog/CMakeFiles/install.dir
+D:/testerQTsmiffdog/CMakeFiles/install/local.dir
+D:/testerQTsmiffdog/CMakeFiles/dllSniffdog-QT_autogen_timestamp_deps.dir
+D:/testerQTsmiffdog/CMakeFiles/dllSniffdog-QT_autogen.dir
